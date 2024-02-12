@@ -1,0 +1,1 @@
+[View Dashboard](<iframe title="amal shield insurance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTY0Yjk3ZDMtMzVjOC00OGQzLWE2NjctZjZmYjc0YzIxYWNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
